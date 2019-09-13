@@ -1,0 +1,28 @@
+# FeedReader Test
+
+No build tools were used in this project !
+
+## Setup
+- Just launch `index.html`
+
+## Test Suites
+
+The list of **Test Suites**:
+
+#### 1. RSS Feeds
+- *allFeeds* array defined, empty ?
+- *allFeeds* objects have a URL defined and not empty ?
+- *allFeeds* objects have a name defined and not empty ?
+
+#### 2. The Menu
+- It is hidden by default ?
+- It doesn't appear in the viewport by default ? (Additional test for CSS)
+- It hides and shows accordingly ?
+- It hides and shows physically ? (Additional test for CSS)
+
+#### 3. Initial Entries
+- The feed has at least one entry ?
+
+
+#### 4. New Feed Sekection
+- The feed changes when clicking on another feed link in the menu ?
