@@ -10,9 +10,9 @@ No build tools were used in this project !
 The list of **Test Suites**:
 
 #### 1. RSS Feeds
-- *allFeeds* array defined, empty ?
-- *allFeeds* objects have a URL defined and not empty ?
-- *allFeeds* objects have a name defined and not empty ?
+- Is the *allFeeds* array defined, empty ?
+- Do the *allFeeds* objects have a URL defined and not empty ?
+- Do the *allFeeds* objects have a name defined and not empty ?
 
 #### 2. The Menu
 - Is the menu hidden by default ?
