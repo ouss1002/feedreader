@@ -24,5 +24,5 @@ The list of **Test Suites**:
 - Does the feed have at least one entry ?
 
 
-#### 4. New Feed Sekection
+#### 4. New Feed Selection
 - Does the feed change when clicking on another feed link in the menu ?
