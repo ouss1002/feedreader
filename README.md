@@ -1,12 +1,10 @@
 # FeedReader Test
-
 No build tools were used in this project !
 
 ## Setup
 - Just launch `index.html`
 
 ## Test Suites
-
 The list of **Test Suites**:
 
 #### 1. RSS Feeds
@@ -16,9 +14,9 @@ The list of **Test Suites**:
 
 #### 2. The Menu
 - Is the menu hidden by default ?
-- Does the menu appear in the viewport by default ? (Additional test for CSS)
+- Does the menu appear in the viewport by default ? (Additional visual testing for CSS)
 - Does it hide and show accordingly ?
-- Does it hide and show physically ? (Additional test for CSS)
+- Does it hide and show physically ? (Additional visual testing for CSS)
 
 #### 3. Initial Entries
 - Does the feed have at least one entry ?
