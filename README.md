@@ -21,8 +21,8 @@ The list of **Test Suites**:
 - hides and shows physically ? (Additional test for CSS)
 
 #### 3. Initial Entries
-- The feed has at least one entry ?
+- Does the feed have at least one entry ?
 
 
 #### 4. New Feed Sekection
-- The feed changes when clicking on another feed link in the menu ?
+- Does the feed change when clicking on another feed link in the menu ?
