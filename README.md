@@ -15,10 +15,10 @@ The list of **Test Suites**:
 - *allFeeds* objects have a name defined and not empty ?
 
 #### 2. The Menu
-- It is hidden by default ?
-- It doesn't appear in the viewport by default ? (Additional test for CSS)
-- It hides and shows accordingly ?
-- It hides and shows physically ? (Additional test for CSS)
+- is hidden by default ?
+- doesn't appear in the viewport by default ? (Additional test for CSS)
+- hides and shows accordingly ?
+- hides and shows physically ? (Additional test for CSS)
 
 #### 3. Initial Entries
 - The feed has at least one entry ?
