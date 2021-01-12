@@ -34,14 +34,13 @@ $(function() {
         });
     });
 
-    describe('The Menu', function() {
+    describe('The Menu', function() { // VISUAL TESTING
 
         beforeAll(() => {
 
             // these variables help me determine if the menu is hidden physically 
             // (which means i'm gonna test some CSS). Basically, i check if the whole 
             // menu is outside of the viewport
-            // this is a test i added because... why not :D 
 
             const slide = window.getComputedStyle(document.querySelector('.slide-menu'));
             padLeft = parseInt(slide.getPropertyValue('padding-left'));
