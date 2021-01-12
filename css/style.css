@@ -57,7 +57,7 @@ h2 {
     height: 100%;
     width: 10em;
     transform: translate3d(0, 0, 0);
-    transition: transform 0.2s;
+    transition: transform 0.3s;
 }
 
 .slide-menu ul {
@@ -78,7 +78,7 @@ h2 {
 
 .menu-hidden .slide-menu {
     transform: translate3d(-12em, 0, 0);
-    transition: transform 0.2s;
+    transition: transform 0.3s;
 }
 
 .feed {
